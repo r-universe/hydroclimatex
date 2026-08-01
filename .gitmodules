@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "NPRED"]
+	path = NPRED
+	url = https://github.com/hydroclimatex/npred
+[submodule "WASP"]
+	path = WASP
+	url = https://github.com/hydroclimatex/wasp
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/hydroclimatex/synthesis
